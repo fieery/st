@@ -1,5 +1,7 @@
 # fieery's st
 
+![Alt text](st.png?raw=true "fieery's st")
+
 ## Patches applied
 
 - alpha/ https://st.suckless.org/patches/alpha/
